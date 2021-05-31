@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Gaming Font";
+  src: local("Gaming Font"),
+    url("./assets/fonts/GamingFont.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Empire";
+  src: local("Empire"), url("./assets/fonts/Empire.ttf") format("truetype");
+}

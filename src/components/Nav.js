@@ -70,20 +70,22 @@ const StyledNav = styled(motion.nav)`
 `;
 const Logo = styled(motion.div)`
   margin-bottom: 2rem;
-  transition: transform 1s ease;
-    a{
-        display:inline-block;
-    }
+
+  a {
+    display: inline-block;
+  }
   img {
     margin: 0 auto;
     cursor: pointer;
+    transition: transform 1s ease;
+    &:hover {
+      transform: scale(1.2);
+    }
   }
-  &:hover {
-    transform: scale(1.2);
-  }
+
   @media screen and (max-width: 500px) {
     img {
-      width:80%;
+      width: 80%;
     }
   }
 `;
@@ -117,44 +119,42 @@ const StyledSearch = styled(motion.form)`
     color: white;
     border-top-right-radius: 0.3rem;
     border-bottom-right-radius: 0.3rem;
-    transition:all 1s ease;
+    transition: all 1s ease;
 
-    &:hover{
-        background:#d30303;
+    &:hover {
+      background: #d30303;
     }
   }
   .clear {
     display: block;
-
     margin: 2rem auto;
   }
   @media screen and (max-width: 1220px) {
-   input {
-     width: 50%;
-     
-   }
+    input {
+      width: 50%;
+    }
   }
   @media screen and (max-width: 768px) {
     input {
-      display:block;
-     font-size:1.1rem;
-     margin: auto;
-     margin-bottom:2rem;
+      display: block;
+      font-size: 1.1rem;
+      margin: auto;
+      margin-bottom: 2rem;
     }
     button {
-      font-size:1.1rem;
+      font-size: 1.1rem;
     }
   }
   @media screen and (max-width: 500px) {
     input {
-      width:80%;
-      display:block;
-     font-size:0.7rem;
-     margin: auto;
-     margin-bottom:2rem;
+      width: 80%;
+      display: block;
+      font-size: 0.7rem;
+      margin: auto;
+      margin-bottom: 2rem;
     }
     button {
-      font-size:0.7rem;
+      font-size: 0.7rem;
     }
   }
 `;

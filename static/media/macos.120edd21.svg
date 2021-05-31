@@ -1,0 +1,9 @@
+<svg width="50" height="60" viewBox="0 0 60 68" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" fill="#565656" d="m53.1667,42.5503c-1.8995,5.51 -7.5859,15.266 -13.4439,15.3724c-3.886,0.0749 -5.1354,-2.3031 -9.5773,-2.3031c-4.4394,0 -5.829,2.2306 -9.5023,2.3756c-6.2157,0.2392 -15.80983,-14.0819 -15.80983,-26.5713c0,-11.4719 7.99433,-17.1583 14.97853,-17.2622c3.7458,-0.0677 7.2838,2.5254 9.5676,2.5254c2.2934,0 6.5902,-3.1175 11.107,-2.6608c1.8898,0.0798 7.1992,0.7613 10.6067,5.7445c-9.0407,5.9015 -7.6318,18.2434 2.0735,22.7795zm-12.6198,-42.5503c-6.8295,0.2755 -12.4024,7.44092 -11.6242,13.3666c6.3123,0.4906 12.3685,-6.58543 11.6242,-13.3666z"/>
+  <text stroke-opacity="0" transform="matrix(0.578142 0 0 0.578142 52.9363 17.045)" stroke="#0f0f00" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_2" y="27.20159" x="-68.45558" stroke-width="0" fill="#ffffff">mac</text>
+  <text transform="matrix(0.741258 0 0 0.741258 4.83414 9.66412)" stroke="#0f0f00" stroke-opacity="0" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_3" y="52.46758" x="12.34965" fill="#ffffff">OS</text>
+ </g>
+</svg>

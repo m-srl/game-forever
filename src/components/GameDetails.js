@@ -372,7 +372,7 @@ const GameDetails = ({ pathId }) => {
                       ? screenshotsArray.map((screenshot, index) => {
                           if (index + 1 === slideIndex) {
                             return (
-                              <span
+                              <span key={index}
                                 onClick={() => {
                                   selectSlides(slideIndex);
                                 }}
@@ -381,7 +381,7 @@ const GameDetails = ({ pathId }) => {
                             );
                           } else {
                             return (
-                              <span
+                              <span key={index}
                                 onClick={() => {
                                   selectSlides(index + 1);
                                 }}

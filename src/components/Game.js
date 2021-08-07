@@ -10,7 +10,6 @@ import { loadDetails } from "../actions/gameDetailsAction";
 
 import { Link } from "react-router-dom";
 
-
 import { smallImage } from "../util";
 import missingImage from "../assets/img/missing-image.jpg";
 
@@ -30,7 +29,7 @@ const Game = ({ name, id, releaseDate, image }) => {
       layoutId={`container${convertIdToString}`}
       onClick={loadDetailsHandler}
     >
-      <Link to={`/game/${id}`}>
+      <Link to={`/game-forever/game/${id}`}>
         <motion.h3 layoutId={`title${convertIdToString}`}>{name}</motion.h3>
 
         <p title="Release Date">
@@ -54,12 +53,11 @@ const StyledGame = styled(motion.div)`
   border-radius: 1rem;
   cursor: pointer;
   overflow: hidden;
- 
+
   img {
     width: 100%;
     height: 40vh;
     object-fit: cover;
-   
   }
   h3 {
     max-width: fit-content;

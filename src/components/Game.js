@@ -29,7 +29,7 @@ const Game = ({ name, id, releaseDate, image }) => {
       layoutId={`container${convertIdToString}`}
       onClick={loadDetailsHandler}
     >
-      <Link to={`/game-forever/game/${id}`}>
+       <Link to={`/game/${id}`}>
         <motion.h3 layoutId={`title${convertIdToString}`}>{name}</motion.h3>
 
         <p title="Release Date">

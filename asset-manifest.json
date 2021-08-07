@@ -1,31 +1,31 @@
 {
   "files": {
     "main.css": "/game-forever/static/css/main.144bb174.chunk.css",
-    "main.js": "/game-forever/static/js/main.eaa0d958.chunk.js",
-    "main.js.map": "/game-forever/static/js/main.eaa0d958.chunk.js.map",
+    "main.js": "/game-forever/static/js/main.d00e76cd.chunk.js",
+    "main.js.map": "/game-forever/static/js/main.d00e76cd.chunk.js.map",
     "runtime-main.js": "/game-forever/static/js/runtime-main.caea370d.js",
     "runtime-main.js.map": "/game-forever/static/js/runtime-main.caea370d.js.map",
-    "static/js/2.1b9a7554.chunk.js": "/game-forever/static/js/2.1b9a7554.chunk.js",
-    "static/js/2.1b9a7554.chunk.js.map": "/game-forever/static/js/2.1b9a7554.chunk.js.map",
+    "static/js/2.6121b7ed.chunk.js": "/game-forever/static/js/2.6121b7ed.chunk.js",
+    "static/js/2.6121b7ed.chunk.js.map": "/game-forever/static/js/2.6121b7ed.chunk.js.map",
     "index.html": "/game-forever/index.html",
     "static/css/main.144bb174.chunk.css.map": "/game-forever/static/css/main.144bb174.chunk.css.map",
-    "static/js/2.1b9a7554.chunk.js.LICENSE.txt": "/game-forever/static/js/2.1b9a7554.chunk.js.LICENSE.txt",
+    "static/js/2.6121b7ed.chunk.js.LICENSE.txt": "/game-forever/static/js/2.6121b7ed.chunk.js.LICENSE.txt",
     "static/media/index.css": "/game-forever/static/media/GamingFont.d1893e51.otf",
-    "static/media/apple.d1f2bce8.svg": "/game-forever/static/media/apple.d1f2bce8.svg",
+    "static/media/apple.fea40a87.svg": "/game-forever/static/media/apple.fea40a87.svg",
     "static/media/game-forever-nobg.61ffa620.png": "/game-forever/static/media/game-forever-nobg.61ffa620.png",
-    "static/media/gamepad.c9269ef5.svg": "/game-forever/static/media/gamepad.c9269ef5.svg",
-    "static/media/linux.927de870.svg": "/game-forever/static/media/linux.927de870.svg",
-    "static/media/macos.120edd21.svg": "/game-forever/static/media/macos.120edd21.svg",
+    "static/media/gamepad.98eab601.svg": "/game-forever/static/media/gamepad.98eab601.svg",
+    "static/media/linux.d0b705f8.svg": "/game-forever/static/media/linux.d0b705f8.svg",
+    "static/media/macos.0e548e83.svg": "/game-forever/static/media/macos.0e548e83.svg",
     "static/media/missing-image.6dde57a1.jpg": "/game-forever/static/media/missing-image.6dde57a1.jpg",
-    "static/media/nintendo.f579be04.svg": "/game-forever/static/media/nintendo.f579be04.svg",
-    "static/media/playstation.18cc4b9c.svg": "/game-forever/static/media/playstation.18cc4b9c.svg",
-    "static/media/windows.6c1abf28.svg": "/game-forever/static/media/windows.6c1abf28.svg",
-    "static/media/xbox.3e7db735.svg": "/game-forever/static/media/xbox.3e7db735.svg"
+    "static/media/nintendo.a909be56.svg": "/game-forever/static/media/nintendo.a909be56.svg",
+    "static/media/playstation.4bbb4079.svg": "/game-forever/static/media/playstation.4bbb4079.svg",
+    "static/media/windows.d8123e71.svg": "/game-forever/static/media/windows.d8123e71.svg",
+    "static/media/xbox.63a50e86.svg": "/game-forever/static/media/xbox.63a50e86.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.caea370d.js",
-    "static/js/2.1b9a7554.chunk.js",
+    "static/js/2.6121b7ed.chunk.js",
     "static/css/main.144bb174.chunk.css",
-    "static/js/main.eaa0d958.chunk.js"
+    "static/js/main.d00e76cd.chunk.js"
   ]
 }

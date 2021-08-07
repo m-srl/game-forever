@@ -32,8 +32,8 @@ const API_KEY = "0bfb6886907f48a2aa311350195e33e4";
 
 // Popular Games
 const popularGames = `games?key=${API_KEY}&dates=${prevYearDate},${currentDate}&ordering=-rating&page_size=12`;
-const upcomingGames = `games?key=${API_KEY}&dates=${currentDate},${nextYearDate}&ordering=-added&page_size=12`;
-const newGames = `games?key=${API_KEY}&dates=${prevYearDate},${currentDate}&ordering=-released&page_size=12`;
+const upcomingGames = `games?key=${API_KEY}&dates=${currentDate},${nextYearDate}&ordering=-rating&page_size=12`;
+const newGames = `games?key=${API_KEY}&dates=${prevYearDate},${currentDate}&ordering=released&page_size=12`;
 
 export const popularGamesURL = () => `${starting_url}${popularGames}`;
 export const upcomingGamesURL = () => `${starting_url}${upcomingGames}`;

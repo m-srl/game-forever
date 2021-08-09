@@ -1,6 +1,7 @@
 # About This App
 
-Game forever - you can use this app to check new game releases, find your favorite games and more.
+[Game forever](https://m-srl.github.io/game-forever/) - you can use this app to check new game releases, find your favorite games and more.
+
 
 
 # Getting Started with Create React App

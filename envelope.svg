@@ -1,15 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg"
-     version="1.2" baseProfile="tiny"
-     width="30" height="30" viewBox="0 0 30 30">
-    <title>Zhidapro logo</title>
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 30 30">
+    <title>Zhidapro</title>
     <desc>Zhidapro email icon</desc>
-    <rect x="5" y="8" width="20" height="14"
-          fill="none" stroke="black" stroke-width="1.2"/>
-    <polygon points="5,8 15,16 25,8"
-             fill="none" stroke="black" stroke-width="1.2"/>
-    <line x1="5" y1="22" x2="12.5" y2="14"
-          stroke="black" stroke-width="1.2"/>
-    <line x1="25" y1="22" x2="17.5" y2="14"
-          stroke="black" stroke-width="1.2"/>
+    <rect x="5" y="8" width="20" height="14" fill="none" stroke="black" stroke-width="1.2"/>
+    <polygon points="5,8 15,16 25,8" fill="none" stroke="black" stroke-width="1.2"/>
+    <line x1="5" y1="22" x2="12.5" y2="14" stroke="black" stroke-width="1.2"/>
+    <line x1="25" y1="22" x2="17.5" y2="14" stroke="black" stroke-width="1.2"/>
 </svg>
